@@ -25,6 +25,7 @@ const route = useRoute();
 
 .main {
     flex: 1;
-    padding: 20px;
+    padding: 24px 32px;
+    box-sizing: border-box;
 }
 </style>
